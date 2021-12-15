@@ -38,3 +38,8 @@ install python 3.6
 and then install twint in its environment
 for more information how to install twint
 https://github.com/twintproject/twint
+
+# License
+
+This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+

@@ -28,5 +28,13 @@ I have also extracted latest covid 19 data cleaned it by
  Here I am using stemmer as this is fast compared to lemmatize. There is different stemmer.
  Here I am using Porter stemmer as this is most popular and commonly used stemmer
  
-# VISUALIZATION OF DATA
+# Visualization of data
+
 To visualise the result,  Here I used  seaborn Library
+
+# To Install
+Twint works best with python 3.6
+install python 3.6 
+and then install twint in its environment
+for more information how to install twint
+https://github.com/twintproject/twint

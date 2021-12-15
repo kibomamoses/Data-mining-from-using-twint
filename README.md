@@ -21,14 +21,11 @@ I have also extracted latest covid 19 data cleaned it by
  
  ## 3.Removing stopwords
  Stop words are commonly used word ( such as a, an, the, in, on). 
- 
  During analysis these words does not have much value to the analysis.
- 
  As a result, we remove these words.
  
  ## 4. Stemming / Lemmatize
  Here I am using stemmer as this is fast compared to lemmatize. There is different stemmer.
- 
  Here I am using Porter stemmer as this is most popular and commonly used stemmer
  
 # VISUALIZATION OF DATA
